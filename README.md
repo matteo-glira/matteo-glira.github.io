@@ -1,8 +1,6 @@
 # matteo-glira.github.io
 Personal portfolio - Matteo Glira
 
-## HEY, I’M MATTEO GLIRA
-
 ### ABOUT
 Hi, I'm Matteo Glira.
 I have a strong passion for physics, especially quantum mechanics, and I enjoy exploring concepts such as quantum computing and general relativity.
